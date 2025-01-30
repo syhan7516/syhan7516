@@ -1,3 +1,4 @@
 # syhan7516
-😊 나를 소개하는 간단한 포토폴리오 <br><br>
-🚩 <a href="http://equatorial-vacation-63f.notion.site">Notion</a>
+😊 <br/>
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStarbow-Break%2F&count_bg=%23D39DFF&title_bg=%23555555&icon=micro-dot-blog.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
